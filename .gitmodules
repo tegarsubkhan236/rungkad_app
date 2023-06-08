@@ -1,0 +1,6 @@
+[submodule "rungkad_rest_api"]
+	path = rungkad_rest_api
+	url = https://github.com/tegarsubkhan236/rungkad_rest_api.git
+[submodule "rungkad_web_client"]
+	path = rungkad_web_client
+	url = https://github.com/tegarsubkhan236/rungkad_web_client.git
